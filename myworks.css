@@ -1,0 +1,16 @@
+body{
+    margin-left:100px;
+    margin-top:23px;
+    
+}
+ul{
+    color:white;
+    border-radius:12px;
+    font-size: 28px;
+}
+a{
+    color:black;
+}
+a:hover{
+    color:green;
+}
